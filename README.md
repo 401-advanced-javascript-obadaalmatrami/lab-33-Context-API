@@ -3,8 +3,8 @@
 Project Name
 Author: Student/ obada al-matrami
 Links and Resources
-submission PR
-ci/cd (GitHub Actions)
+submission PR (https://github.com/401-advanced-javascript-obadaalmatrami/lab-33-Context-API/pull/1)
+ci/cd (https://github.com/401-advanced-javascript-obadaalmatrami/lab-33-Context-API/actions)
 front-end application (when applicable)
 Setup
 npm run start 
